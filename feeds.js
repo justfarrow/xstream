@@ -1,5 +1,3 @@
-//usemuzli/portfolio/
-
 var feeds = [
   'https://xstreamglobal.blogspot.com/feeds/posts/default?alt=rss',
   'https://liberia-today.pyro.app/feed',
@@ -80,4 +78,3 @@ $("#articles .post-list").rss(feeds,
     })
   }
 );
- SheetAside
